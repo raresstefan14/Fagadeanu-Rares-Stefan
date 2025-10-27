@@ -37,4 +37,4 @@ and experimenting with **embedded AI systems**.
 
 ---
 
-⭐ *“Engineering is not only about building systems — it’s about understanding how things connect.”*
+
